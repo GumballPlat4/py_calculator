@@ -1,5 +1,5 @@
 from pyscript import document
-    
+
 def szamit(event):
     szam=float (document.querySelector("#szam").value)
     
